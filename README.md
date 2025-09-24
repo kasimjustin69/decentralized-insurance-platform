@@ -73,6 +73,8 @@ This project follows a structured development workflow:
 
 All new features should be developed in feature branches, merged to development for integration testing, and then merged to main for production releases.
 
+> **Note**: You are currently viewing the development branch. This branch contains the latest features and improvements that are being prepared for the next release.
+
 ## Installation & Development
 
 ### Prerequisites
