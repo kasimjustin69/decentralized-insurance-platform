@@ -64,6 +64,15 @@ Built on Stacks blockchain using Clarity smart contracts for:
 - Reinsurance contract management
 - Catastrophe modeling and stress testing
 
+## Development Workflow
+
+This project follows a structured development workflow:
+- `main` branch: Production-ready releases and stable code
+- `development` branch: Active development and feature integration
+- Feature branches: Individual feature development and testing
+
+All new features should be developed in feature branches, merged to development for integration testing, and then merged to main for production releases.
+
 ## Installation & Development
 
 ### Prerequisites
